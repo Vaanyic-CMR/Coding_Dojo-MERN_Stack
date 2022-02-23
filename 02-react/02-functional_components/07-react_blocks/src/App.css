@@ -1,0 +1,12 @@
+.App {
+    background-color: #dddddd;
+    text-align: center;
+    height: 90vh;
+    margin: 15px;
+    padding: 1%;
+}
+
+.flex {
+    display: flex;
+    height: inherit;
+}
