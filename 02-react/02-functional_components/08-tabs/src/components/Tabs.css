@@ -1,0 +1,18 @@
+.btn {
+    padding: 10px;
+    margin: 5% 1%;
+    border: solid lightslategrey;
+}
+.btn-active {
+    background-color: black;
+    color: white;
+}
+.btn-inactive {
+    background-color: white;
+    color: black;
+}
+.content {
+    padding: 10px;
+    margin: 5%;
+    border: solid lightslategrey;
+}
