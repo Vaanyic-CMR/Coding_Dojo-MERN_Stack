@@ -1,0 +1,28 @@
+.value {
+    padding: 5px 15px;
+    margin: 1%;
+    border-radius: 5px;
+}
+
+.todo {
+    text-decoration: none;
+}
+.complete {
+    text-decoration: line-through;
+}
+form {
+    margin: 1%;
+}
+
+.btn {
+    padding: 5px 15px;
+    margin: 1%;
+    border-radius: 5px;
+    color: white;
+}
+.btn-add {
+    background-color: #002ef8;
+}
+.btn-delete {
+    background-color: black;
+}
