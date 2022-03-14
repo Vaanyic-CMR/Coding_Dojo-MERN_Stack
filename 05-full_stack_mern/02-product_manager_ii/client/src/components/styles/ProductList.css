@@ -1,0 +1,9 @@
+.content {
+    text-align: center;
+}
+.link-row {
+    margin: 1%;
+    color: black;
+    display: block;
+    font-size: larger;
+}
