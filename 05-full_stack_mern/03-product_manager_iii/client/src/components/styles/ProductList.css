@@ -1,0 +1,22 @@
+.content {
+    text-align: center;
+}
+.link-row {
+    display: block;
+    margin: 1%;
+}
+.link {
+    margin-right: 1%;
+    font-size: larger;
+    color: black;
+}
+.btn-ud {
+    background-color: #e6e6e6;
+    margin: 1% 1%;
+    font-size: 12pt;
+    text-decoration: none;
+    color: #333333;
+    border-style: none;
+    border-radius: 5px;
+    padding: 1% 2%;
+}
