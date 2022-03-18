@@ -1,0 +1,39 @@
+body {
+    padding: 5% 20%;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 3% 0px;
+}
+
+.form-block {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    background-color: #f6f6f6;
+    border-color: #dfdfdf;
+    border-radius: 5px;
+    padding: 1% 2%;
+}
+.form-label {
+    margin-right: 5%;
+    color: #999999;
+}
+.form-input_text {
+    width: 60%;
+    border-color: #dddddd;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 2% 3%;
+}
+
+.btn {
+    background-color: #e6e6e6;
+    font-size: 12pt;
+    color: #333333;
+    border-style: none;
+    border-radius: 5px;
+    padding: 1% 7%;
+}
