@@ -1,0 +1,8 @@
+.App { padding: 0% 20%; }
+
+.btn-grad-edit {
+    background-image: linear-gradient(180deg, #f5e1cb, #516471);
+}
+.btn-grad-del {
+    background-image: linear-gradient(180deg, #e6c3c2, #4f6270);
+}
