@@ -1,0 +1,47 @@
+.App {
+    background-color: #dddddd;
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+}
+
+.row {
+    display: flex;
+}
+
+.header {
+    background-color: #6aa84f;
+    height: 100px;
+    margin: 1%;
+}
+
+.navigation {
+    background-color: #6ea8dc;
+    display: inline-block;
+    height: 600px;
+    width: 20%;
+    margin: 1%;
+}
+
+.main {
+    background-color: #e06666;
+    display: inline-block;
+    height: 700px;
+    width: 75%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.sub-content {
+    background-color: #ffd967;
+    display: inline-block;
+    height: 300px;
+    width: 30%;
+    margin: 1%;
+}
+
+.advertisement {
+    background-color: #b3a7d6;
+    height: 100px;
+    margin: 1%;
+}
